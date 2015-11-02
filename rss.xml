@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SecurityVision]]></title>
+        <description><![CDATA[SecurityVision]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 Nov 2015 12:17:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top cops demand access to the UK's entire web browsing history]]></title>
+            <description><![CDATA[<article><h1>Top cops demand access to the UK's entire web browsing history</h1><p>IPB Police have demanded to be given access to the whole of the public's web-browsing history as part of the forthcoming Investigatory Powers Bill, due to be published in draft form next week.</p><img src="https://regmedia.co.uk/2015/05/14/riot_police_parliament_square.jpg?x=1200&y=794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2015/10/30/police_want_access_britons_browsing_histories/</link>
+            <guid isPermaLink="false">16865a7b-cd49-41ac-9d39-6bc8fb245786</guid>
+            <pubDate>Mon, 02 Nov 2015 12:17:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
