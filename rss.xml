@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[SecurityVision]]></title>
         <description><![CDATA[SecurityVision]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/securityvision/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 12:17:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 Nov 2015 12:47:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/securityvision/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hackers use malware disguised as Word doc to steal data from Android users]]></title>
+            <description><![CDATA[<article><h1>Hackers use malware disguised as Word doc to steal data from Android users</h1><p>Android malware tricks users into opening document that installs data stealing Trojan Hackers have created Android malware that hides itself as a Microsoft Word document in order to trick users into opening it and steal data. The malware was discovered by IT security firm Zscaler.</p><img src="http://media.scmagazineuk.com/images/2015/10/30/worddocicon_860639.jpg?format=jpg&zoom=1&quality=70&anchor=middlecenter&width=320&mode=pad"></article>]]></description>
+            <link>http://www.scmagazineuk.com/hackers-use-malware-disguised-as-word-doc-to-steal-data-from-android-users/article/450638/</link>
+            <guid isPermaLink="false">b7639311-d501-4ec8-a433-190a27037178</guid>
+            <pubDate>Mon, 02 Nov 2015 12:47:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Top cops demand access to the UK's entire web browsing history]]></title>
             <description><![CDATA[<article><h1>Top cops demand access to the UK's entire web browsing history</h1><p>IPB Police have demanded to be given access to the whole of the public's web-browsing history as part of the forthcoming Investigatory Powers Bill, due to be published in draft form next week.</p><img src="https://regmedia.co.uk/2015/05/14/riot_police_parliament_square.jpg?x=1200&y=794"></article>]]></description>
