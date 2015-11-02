@@ -1,0 +1,23 @@
+name: SecurityVision
+favicon: null
+layout_spectrum: 0.09702976979315281
+typography_spectrum: 0.5466871925164014
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6704099816270173
+  lightness: 0.49958516913466156
+  saturation: 0.21167214587330818
+  rhythmicContrast: 0.8685266559477895
+purpose: []
