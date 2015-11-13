@@ -4,8 +4,15 @@
         <description><![CDATA[SecurityVision]]></description>
         <link>https://thegrid.ai/securityvision/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 12:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 12:49:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/securityvision/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Edward Snowden guide to practical privacy]]></title>
+            <description><![CDATA[<article><h1>The Edward Snowden guide to practical privacy</h1><p>If you want to limit how much governments and companies know about you and your private life, then use Tor, download specific apps and plug-ins, encrypt your hard drive, and use a password manager. Those are among the tips provided by NSA whistleblower Edward Snowden in an interview with "digital bodyguard" Micah Lee.</p><img src="https://regmedia.co.uk/2015/10/29/snowden.jpg?x=1200&y=794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2015/11/12/snowden_guide_to_practical_privacy/</link>
+            <guid isPermaLink="false">309c9759-5d49-4978-9895-01f1ed32c779</guid>
+            <pubDate>Fri, 13 Nov 2015 12:47:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Malvertising on Barclays Premier League fantasy site exploits Flash vulnerabilities]]></title>
             <description><![CDATA[<article><h1>Malvertising on Barclays Premier League fantasy site exploits Flash vulnerabilities</h1><p>November 12, 2015 Malwarebytes spotted malvertising on the Barclays Premier League official fantasy site that redirected users to Nuclear Exploit Kits that exploited Flash vulnerabilities. Malicious advertising on the Barclays Premier League official fantasy European football site fantasy.premierleague.com redirected users to a Nuclear Exploit Kit designed to take advantage of vulnerabilities in Flash Player and compromise end-user machines, Malwarebytes researchers said in a Tuesday post.</p><img src="http://media.scmagazine.com/images/2015/11/11/thinkstockphotos91263912ftbw_866349_866350.jpg"></article>]]></description>
