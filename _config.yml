@@ -1,7 +1,7 @@
 name: SecurityVision
 favicon: null
-layout_spectrum: 0.09702976979315281
-typography_spectrum: 0.5466871925164014
+layout_spectrum: 0.99549
+typography_spectrum: 0.00468
 cta:
   domain: null
   bucket: null
